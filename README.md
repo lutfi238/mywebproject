@@ -1,5 +1,5 @@
 # hello-world
-Hello World repository for git tutorial
+Hello World repository for git tutorials
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial .
